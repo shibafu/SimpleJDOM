@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+	<employee>
+		<name>Yamamoto</name>
+		<class>Sales Section1</class>
+		<sex>male</sex>
+		<age>10</age>
+	</employee>
+
+	<employee>
+		<name>Hanako</name>
+		<class>Sales Section2</class>
+		<sex>female</sex>
+		<age>20</age>
+	</employee>
+	
+		<employee>
+		<name>Taniguchi</name>
+		<class>Develop Section2</class>
+		<sex>male</sex>
+		<age>30</age>
+	</employee>
+
+</employees>
